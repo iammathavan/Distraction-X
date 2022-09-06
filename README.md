@@ -8,6 +8,7 @@ This is a Chrome Extension that helps with avoiding distracting websites. Users 
 ## Screenshot of the Extension
 
 ![Extension](https://github.com/iammathavan/Distraction-X/blob/main/Screenshot%20.png)
+![Extension blocking Instagram](https://github.com/iammathavan/Distraction-X/blob/main/Screenshot%202.png)
 
 ## Color Reference
 
