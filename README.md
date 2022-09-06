@@ -38,5 +38,5 @@ links when the timer is not running.
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iammathavan/)
 ## License
 
-[MIT]()
+[MIT](https://github.com/iammathavan/Distraction-X/blob/main/LICENSE)
 
