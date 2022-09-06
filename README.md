@@ -14,9 +14,9 @@ This is a Chrome Extension that helps with avoiding distracting websites. Users 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Background Color | ![#7F5283](https://via.placeholder.com/15/7F5283/7F5283.png) #7F5283 |
-| Buttons Color | ![#A6D1E6](https://via.placeholder.com/10/A6D1E6?text=+) #A6D1E6 |
-| Light Color | ![#FEFBF6](https://via.placeholder.com/10/FEFBF6?text=+) #FEFBF6 |
-| Dark Color | ![#3D3C42](https://via.placeholder.com/10/3D3C42?text=+) #3D3C42 |
+| Buttons Color | ![#A6D1E6](https://via.placeholder.com/15/A6D1E6/A6D1E6.png) #A6D1E6 |
+| Light Color | ![#FEFBF6](https://via.placeholder.com/15/FEFBF6/FEFBF6.png) #FEFBF6 |
+| Dark Color | ![#3D3C42](https://via.placeholder.com/15/3D3C42/3D3C42.png) #3D3C42 |
 
 
 ## NOTE
