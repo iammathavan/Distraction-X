@@ -1,0 +1,107 @@
+:root {
+    --primary-color: #7F5283;
+    --secondary-color: #A6D1E6;
+    --lighter-color: #FEFBF6;
+    --darkest-color: #3D3C42; 
+  }
+  
+  body {
+    margin: 0;
+    padding: 10px;
+    min-width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: var(--primary-color);
+  }
+  
+  
+  #the-timer-set-btns{
+    padding-top: 0.5rem;
+  }
+  
+  #timer-btn-start{
+    margin-right: 0.5rem;
+  }
+  
+  #timer-btn-stop{
+    margin-left: 0.5rem;
+  }
+  
+  #hr-inp{
+    margin-right: 0.25rem;
+  }
+  
+  #min-inp{
+    margin-right: 0.25rem;
+  }
+  
+  button{
+    background-color: var(--secondary-color);
+    border: none;
+    color: black;
+    border-radius: 50%;
+    padding: 0.75rem;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  button:hover{
+    background-color: var(--darkest-color);
+    color: var(--lighter-color);
+  }
+  
+  .the-timer-set{
+    margin: auto;
+    max-width: 75%;
+    text-align: center;
+    padding: 0.5rem;
+  }
+  
+  #stopwatch {
+    text-align: center;
+    max-width: 50%;
+    margin: auto;
+    font-size: 3.7em;
+    color: var(--lighter-color);
+    padding: 0.5rem;
+  }
+  
+  #display-url{
+    margin-top: 1%;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  a {
+    color: var(--lighter-color);
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  
+  a:hover {
+    color: var(--darkest-color);
+  }
+  
+  #enter-url{
+    text-align: center;
+    padding: 0.5em;
+    margin: 0;
+  }
+  
+  input {
+    box-sizing: border-box;
+    outline: none;
+    border: 1px solid var(--darkest-color);
+    transition: 0.5s;
+    padding: 0.5em 0.75em;
+    font-size: 1em;
+  }
+  
+  input:focus {
+    border: 1px solid var(--lighter-color);
+  }
+  
+  #url-input {
+    width: 75%;
+    margin-right: 0.5em;
+  }
+  

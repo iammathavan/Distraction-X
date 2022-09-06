@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="time">
+    <div class="the-timer">
+      <h1 id="stopwatch">--:--:--</h1>
+    </div>
+    <div class="the-timer-set">
+      <div id="the-timer-set-input">
+        <input id="hr-inp" type="number" min="0" max="23" value=00>
+        <input id="min-inp" type="number" min="0" max="59" value=00>
+        <input id="sec-inp" type="number" min="0" max="59" value=00>
+      </div>
+      <div id="the-timer-set-btns">
+        <button id="timer-btn-start" type="button">Start</button>
+        <button id="timer-btn-stop" type="button">Stop</button>
+      </div>
+    </div>
+  </div>
+  <ul id="display-url">
+    
+  </ul>
+  <div id="enter-url">
+    <form>
+      <input id="url-input" name="url" type="url" placeholder="http://www.example.com" required>
+      <button id="url-submit" type="button">Submit</button>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Distraction X",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "background": {
+        "service_worker": "background/background-worker.js"
+    },
+    "permissions": [
+      "tabs", "storage", "scripting"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }
+}
