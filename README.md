@@ -7,7 +7,7 @@ This is a Chrome Extension that helps with avoiding distracting websites. Users 
 
 ## Screenshot of the Extension
 
-![bank.json screenshot]()
+![Extension](https://github.com/iammathavan/Distraction-X/blob/main/Screenshot%20.png)
 
 ## Color Reference
 
