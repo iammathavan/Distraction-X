@@ -35,7 +35,6 @@ links when the timer is not running.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathavanp/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iammathavan/)
 ## License
 
 [MIT](https://github.com/iammathavan/Distraction-X/blob/main/LICENSE)
